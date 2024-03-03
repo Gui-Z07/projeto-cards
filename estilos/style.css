@@ -55,12 +55,14 @@ a.header__nav--active{
     font-size: 59px;
     text-transform: uppercase;
     text-align: center;
-    margin: 46px 0;
+    margin: 32px 0;
 }
 
 .pricing{
     display: flex;
     gap: 16px;
+   padding: 6px;
+   
 }
 
 .pricing-plan{
